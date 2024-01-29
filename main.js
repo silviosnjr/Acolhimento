@@ -1,1 +1,1 @@
-alerta("Olá");
+alert("Olá");
