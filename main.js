@@ -4,7 +4,7 @@ const colors = ["lightblue","lightcoral","lightcyan","lightgoldenrodyellow","lig
 let ElmentosPersonalize = document.querySelectorAll(".personalize");
 
 for(let contador = 0; contador < ElmentosPersonalize.length; contador++){    
-    ElmentosPersonalize[contador].computedStyleMap.backgroundColor = colors[contador];
+    ElmentosPersonalize[contador].style.backgroundColor = colors[contador];
     const elementoP = document.createElement('p');   
     elementoP.className = 'emoji';
     elementoP.innerText = emojis[contador];
