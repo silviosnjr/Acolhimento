@@ -2,7 +2,7 @@
         .emoji{font-size:8vw;margin:0;padding:0;}
         section{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;}
         .personalize{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;}
-        .personalize span{font-size:5vw;color:white;float:left;position:absolute;left:30px;}
+        .personalize span{font-size:5vw;color:white;float:left;left:30px;}
         .personalize{width:100%;background-color:lightblue;margin:5px;padding:10px;}
         @media screen and (min-width: 720px){.personalize{width:40%;}}
         @media screen and (min-width: 1024px){.personalize{width:20%;}}
