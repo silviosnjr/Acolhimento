@@ -1,5 +1,5 @@
         body{font-family:"Helvetica Neue",Helvetica,sans-serif;text-align:center;}
-        .emoji{font-size:10vw;margin:0;padding:0;}
+        .emoji{font-size:8vw;margin:0;padding:0;}
         section{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;}
         .personalize{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;}
         .personalize span{font-size:5vw;color:white;float:left;position:absolute;left:30px;}
