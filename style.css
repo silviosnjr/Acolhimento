@@ -5,5 +5,5 @@
         .personalize span{font-size:10vw;color:white;float:left;position:absolute;left:30px;}
       	.personalize div h2{font-size:10vw;color:white;}
         .personalize{width:100%;background-color:lightblue;margin:5px;padding:10px;}
-        @media screen and (min-width: 720px){personalize{width:40%;}}
-        @media screen and (min-width: 1024px){personalize{width:20%;}}
+        @media screen and (min-width: 720px){.personalize{width:40%;}}
+        @media screen and (min-width: 1024px){.personalize{width:20%;}}
