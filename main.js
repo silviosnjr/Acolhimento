@@ -1,4 +1,4 @@
-const emojis = ["😊","😁","😎","🤗","🙂","🤓","😜","😂","😄","😊","😁","😃","😎","🤗","🙂","🤓","😜","😂","😄","😃"];
+const emojis = ["😊","😁","😎","🤗","🙂","🤓","😜","😂","😄","😉","😁","😃","😎","🤗","🙂","🤓","🤣","🥳","🥰","🤩"];
 const colors = ["lightblue","lightcoral","NavajoWhite","PaleGreen","lightgray","lightgreen","lightpink","lightsalmon","lightseagreen","lightskyblue","lightslategrey","lightsteelblue","NavajoWhite","lightblue","lightgrey","lightsalmon","PaleGreen","lightsteelblue","lightpink","lightskyblue"]
 
 let ElmentosPersonalize = document.querySelectorAll(".personalize");
